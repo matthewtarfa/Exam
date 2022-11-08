@@ -1,0 +1,4 @@
+[ec2webserver]
+44.202.245.49 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=/home/vagrant/.ssh/vagrantkeys.pem
+
+
